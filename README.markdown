@@ -1,6 +1,6 @@
 # fabric-handson-ver-lakehouse-notebook
 
-## 参考ドキュメント
+## 参考ドキュメントa
 
 1. [Azure Log Analytics を使用して Apache Spark アプリケーションを監視する (プレビュー)][1]
 
